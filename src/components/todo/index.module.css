@@ -1,0 +1,15 @@
+.item {
+  font-family: monospace;
+  cursor: pointer;
+  line-height: 1.5;
+  display: flex;
+  gap: 5px;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: lightgray;
+}
+.button {
+   border-radius: 50px;
+}
